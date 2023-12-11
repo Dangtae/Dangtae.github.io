@@ -9,6 +9,7 @@ sidebar:
 ---
 
 ## 선택 정렬 알고리즘 (제자리 정렬 방식)
+
 ```python
 def selection_sort(A):
   n = len(A)
