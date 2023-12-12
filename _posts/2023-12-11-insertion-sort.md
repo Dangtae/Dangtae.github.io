@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "알고리즘 - 삽입 정렬 알고리즘"
-categories: CodingTest
+categories: Algorithm
 tag: [알고리즘 공부, 정렬]
 author_profile: false
 sidebar: 

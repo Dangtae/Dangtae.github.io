@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "알고리즘 - 순차 탐색 알고리즘"
-categories: CodingTest
+categories: Algorithm
 tag: [알고리즘 공부, 탐색]
 author_profile: false
 sidebar: 
